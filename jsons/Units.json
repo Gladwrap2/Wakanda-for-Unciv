@@ -92,6 +92,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"All tiles cost 1 movement",
+                        "[1] Movement point cost to embark or disembark",
 			"May withdraw before melee ([50]%)",
 			"Ignores Zone of Control",
 			"Can carry [3] [Aircraft] units"],
@@ -108,7 +109,7 @@
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Uncapturable",
 			"Limited to [1] per Civilization",
-			"[+50]% XP gained from combat",
+			"[+200]% XP gained from combat",
 			"Heals [25] damage if it kills a unit",
 			"[+50]% Strength <during the [Classical era]>",
 			"[+100]% Strength <during the [Medieval era]>",
@@ -118,7 +119,8 @@
 			"[+300]% Strength <during the [Atomic era]>",
 			"[+350]% Strength <during the [Information era]>",
 			"[+400]% Strength <during the [Future era]>",
-			"[+1] Movement <starting from the [Information era]>"],
+			"[+600]% Strength <during the [Beyond the Future era]>",
+			"[+2] Movement <starting from the [Information era]>"],
 		"attackSound": "metalhit"
 	}
 ]
